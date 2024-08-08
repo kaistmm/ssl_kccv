@@ -18,7 +18,7 @@ Official PyTorch implementation of our following papers:
 - [Overview](#overview)
 - [Interactive Synthetic Sound Source (IS3) Dataset](#interactive-synthetic-sound-source-is3-dataset)
 - [Model Checkpoints](#model-checkpoints)
-- [Demo] (#demo)
+- [Demo](#demo)
 - [Citation](#citation)
 
 ## Overview
