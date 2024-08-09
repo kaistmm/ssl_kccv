@@ -58,9 +58,7 @@ The model checkpoints are available for the following experiments:
 
 We provide a zip file that contains model checkpoints and a few data samples from VGGSound.
 
-```
-wget --no-check-certificate 'https://drive.usercontent.google.com/download?id=1p_3-8XBGibXDqBAszUvpEkFT1fAVy9xm&export=download&authuser=4&confirm=t&uuid=67f3ed1f-6d60-490e-bb72-d2e4e4201245&at=APZUnTW3VQmyNOGrgsGl0nIr5c37:1723120153152' -O kccv_tutorial.zip
-```
+https://mm.kaist.ac.kr/share/kccv_tutorial.zip
 
 Download the dataset and set up the environment as described below.
 
